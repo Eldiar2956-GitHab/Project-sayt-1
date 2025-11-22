@@ -1,0 +1,155 @@
+.contener2{
+    width: 1440px;
+    height: 977px;
+    margin-top:0em;
+    background:#fff;
+    margin-left:2em;
+    display: flex;
+    flex-wrap: wrap-reverse;
+    margin-bottom: 0em;
+    justify-content: space-evenly;
+    max-width:70em; /* Ограничиваем ширину контейнера */
+    overflow-x: hidden; /* Убираем горизонтальный скролл */
+   
+}
+.history{
+    width:500px;
+    height: 700px;
+    text-align: center;
+}
+.const-num{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 2em;
+}
+.open{
+    display: flex !important;
+}
+.const-boxs2{
+    margin-left: 3em;
+    margin-right: 3em;
+}
+.num1,.num2,.num3{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 40px;
+    text-align: center;
+    color: #bc9060;
+}
+.const-text3{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    color: #000;
+}
+.const-text{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    color: #000;
+}
+.const-text2{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    color: #000;
+}
+.img-istory{    
+    width: 26em;
+    height: 700px;
+    margin-right: 0em;
+    margin-left: auto;
+}
+.img-istory1{
+    width:350px;
+    height:450px;
+}
+.img1{
+    width: 233px;
+    line-clamp:(233px, 5px ,200px);
+    height: 300px;
+    box-shadow: 20px 0 30px 3px rgba(0, 0, 0, 0.5);
+    position:absolute;
+    margin-left: 5em;
+    z-index: 2;
+    margin-top: -1em;
+}
+.img2{
+    width: 290px;
+    height: 500px;
+    background: url("/project-sayt-main/img/path_to_image");
+    position:absolute;
+    margin-left: -5em;
+    margin-top: -4em;
+    z-index: 1;
+}
+.contener-bosx{
+    margin: 0;
+    width: 212px;
+    height: 164px;
+    background: #ffe8d0;
+    z-index: 0;
+    position: absolute;
+    margin-top: -23em;
+    margin-left: 21em;
+
+}
+.img3{
+    width: 280px;
+    height: 400px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+    position:absolute;
+    margin-left: 5em;
+    margin-top: 9em;
+    z-index: 2;
+}
+.img-booking-bottom{
+    background-image: url(/project-sayt-main/img/delicious-1866631_1920\ 1.png);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 357px;
+    margin-top: 0em;
+    margin-bottom: 0;
+    display: flex;
+    justify-content: space-between;
+    border-image:fill 0 linear-gradient(#0007,#0007);
+}
+.img-text-bootom{
+    width: 701px;
+    height: 173px;
+    margin-top: 6em;
+    margin-left: 5em;
+}
+.img-zagalovca{
+    font-weight: 400;
+    font-size: 52px;
+    color: #d67e34;
+}
+.img-bottom-coment{
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 24px;
+    color: #fff;
+}
+.img-button-booking{
+    width: 157px;
+    height: 47px;
+    background: #ff7400;
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 14px;
+    color: #fff;
+    border: none;
+    margin-top: 12em;
+    margin-right: 6em;
+    transition: color 0.3s, background 0.3s;
+}
+.img-button-booking:hover{
+    color: #ff7400;
+    background: #fff;
+}

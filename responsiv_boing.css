@@ -1,0 +1,1300 @@
+/* базовые стили здесь */
+@media (max-width:1488px) {
+  body {
+    background-color: yellow;
+  }
+      .Home-page{
+    margin-left:7%;
+  }
+  .page1, .page2, .page3{
+    width: 300px;
+    height: 250px;
+  }
+  .img-page1{
+    width: 75px;
+    height: 80px;
+  }
+  .page-coment2, .page-coment3{
+     font-size: 22px;
+    font-weight: 400;
+  }
+  .page-coment1, span{
+    font-size: 22px;
+    font-weight: 400;
+  }
+  .page-text1, .page-text3{
+    font-size: 17px;
+    font-weight: 400;
+    text-align: center;
+    margin-left: 1em;
+  }
+  .page-text2{
+     font-size: 17px;
+    font-weight: 400;
+  }
+  .const-text72{
+    font-size: 40px;
+  }
+  .const-span{
+    font-size: 40px;
+  }
+  .const-coment1{
+    font-size: 16px;
+  }
+  .num1, .num2, .num3{
+    font-size: 30px;
+  }
+  .const-text{
+    font-size: 17px;
+  }
+  .const-text3{
+    font-size:17px;
+  }
+  .history{
+    width: 490px;
+    height: 450px;
+  }
+  .img-istory{
+    height: 530px;
+  }
+  .contener2{
+    width: 1000px;
+    height:620px;
+  }
+  .img-istory1{
+    width: 330px;
+    height: 430px;
+  }
+  .img2{
+    width: 240px;
+    height: 465px;
+  }
+  .img3{
+    width: 230px;
+    height: 270px;
+  }
+  .img-booking-bottom{
+    height: 300px;
+  }
+  .img-zagalovca{
+    font-size: 45px;
+  }
+  .img-bottom-coment{
+    font-size: 20px;
+  }
+  .img-text-bootom{
+    margin-top: 4em;
+  }
+  .img-button-booking{
+    margin-top: 10em;
+  }
+  .contener3 {
+    margin-left: 8em;
+    height: 635px;
+  }
+  .zagalovca2{
+    font-size: 50px;
+  }
+  .text2-zagalovca{
+    font-size: 50px;
+  }
+  .boxs-img-cont3{
+    width: 450px;
+    height: 440px;
+}
+.boxs1-img{
+    width: 160px;
+    height: 127px;
+}
+.boxs-menu{
+    margin-top: 2em;
+    font-size: 22px;
+}
+svg{
+    margin-top: 56px;
+}
+.boxs-price1{
+    margin-top: 43px;
+    font-size: 22px;
+}
+.cont4-incfo-menu{
+        font-size: 45px;
+}
+.recoment1 {
+    font-size: 11px;
+    width: 110px;
+    height: 30px;
+}
+.img-burger1,.img-burger2{
+    width: 200px;
+    height: 180px;
+}
+circle{
+    cx: 49;
+    cy: 49;
+    r: 36.5;
+
+    stroke-width: 6px;
+}
+.img-burger2{
+    margin-top: 45px;
+}
+.text1{
+    font-size: 25px;
+}
+.cont4-menu{
+    font-size: 24px;
+}
+.cont4-burger-info{
+    font-size: 15px;
+}
+.cont4-button{
+    width: 175px;
+    height: 45px;
+    font-size: 14px;
+    margin-left: 80px;
+}
+.cont4-boxs1,.cont4-boxs2,.cont4-boxs3{
+    width: 310px;
+    height: 380px;
+}
+.contener4-img-font{
+    height: 750px;
+}
+.coment-hapy{
+    margin-top: 0em;
+    font-size: 16px;
+    margin-bottom: 0px;
+}
+.img-hapy{
+    width: 70px;
+    height: 70px;
+    margin-top: 0em;
+    margin-bottom:0em;
+    margin-left: 27em
+}
+.Posititel {
+    font-size:16px;
+        margin-bottom: 0px;
+}
+.name-hapy{
+        font-size: 17px;
+}
+.hapy-radio{
+        margin-top: -5em;
+}
+.Hapy-puplu{
+    height: 350px;
+    padding: 2em;
+}
+.eag-info,.povor-info-zagalovca {
+    font-size:45px;
+}
+.eag2,.povor-info2{
+    font-size:45px;
+}
+.top-img1{
+    width: 500px;
+    height: 245px;
+    margin-right: 10px;
+}
+.top-img2{
+    width: 230px;
+    height: 245px;
+}
+.top-img3{
+    width: 210px;
+    height: 245px;
+    margin-left: 10px;
+}
+.top-img5{
+    width: 200px;
+    height: 210px;
+    margin-right: 10px;
+}
+.top-img6{
+    width: 220px;
+    height: 210px;
+}
+.top-img7{
+    width: 520px;
+    height: 230px;
+    margin-left: 10px;
+}
+.povor-img1{
+    width: 320px;
+    height: 410px;
+    margin-left: -16em;
+}
+.povor-img2{
+    width: 320px;
+    height: 410px;
+    margin-right: 2em;
+    margin-left: 2em;
+}
+.povor-img3{
+    width: 320px;
+    height: 410px;
+}
+.povor-info{
+    height: 600px;
+}
+.bottom-logo1,.bottom-logo2{
+    width: 80px;
+    height: 80px;
+}
+.text-bottom{
+    font-size: 15px;
+    font-weight:400;
+}
+.img-info-bottom{
+    gap: 20px;
+}
+.working-hours-zagalovca,.working-hours2,.contact-info,.contact-span{
+    font-size: 25px;
+    font-weight:500;
+}
+.working-hours-text,.info-contecat{
+    font-weight: 400;
+    font-size: 15px;
+}
+.subscribe-box input {
+    padding: 0.75rem 0rem;
+    font-size: 15px;
+}
+.subscribe-box button{
+    padding: 0.75rem 0.5rem;
+    font-size: 13px;
+}
+}
+@media(max-width:1201px) {
+  body {
+    background-color: green;
+  }
+  .boxs-logo1,.boxs-logo2{
+    width:70px;
+    height:70px;
+  }
+  .a{
+    font-size:14px;
+  }
+  .cart,.phone{
+    width: 16px;
+    height: 16px;
+  }
+  .delenie{
+    height: 70px;
+  }
+  .tell{
+    font-size: 17px;
+    font-weight:400;
+  }
+  .text-booking{
+    font-size: 13px;
+    width: 220px;
+    font-weight: 400;
+  }
+  #zacas-booking{
+    width: 130px;
+    height: 40px;
+    font-size: 12px;
+    font-weight: 500;
+  }
+  .logo{
+    margin-top:2em;
+  }
+  .coment1{
+    font-size: 35px;
+    font-weight: 300;
+  }
+  .zagalovca1{
+    font-size: 60px;
+    font-weight: 500;
+  }
+  .boxs-info{
+    margin-left: 5em;
+  }
+  .text{
+    font-size: 17px;
+    font-weight: 300;
+  }
+  .line{
+    width: 75px;
+    height: 2px;
+  }
+  .button-view{
+    font-size: 12px;
+    font-weight: 600;
+    width: 110px;
+    height: 40px;
+  }
+  .Home-page{
+    margin-left: 0%;
+    height: 300px;
+    justify-content: space-evenly;
+  }
+  .page1, .page2, .page3{
+    width: 260px;
+    height: 210px;
+  }
+  .img-page1{
+    width: 60px;
+    height: 60px;
+  }
+  .page-coment1, span,.page-coment2, .page-coment3{
+    font-size: 20px;
+    font-weight: 300;
+  }
+  .page-text1, .page-text3,.page-text2{
+    font-size: 14px;
+    font-weight: 300;
+    text-align: center;
+    margin-left: 0em;
+  }
+  .page1{
+    margin-left:0em;
+  }
+  .page3{
+    margin-right: 15em;
+  }
+  .const-text72,.const-span{
+    font-size: 30px;
+  }
+  .const-coment1{
+    font-size:13px;
+  }
+  .num1, .num2, .num3{
+    font-size: 25px;
+  }
+  .const-text{
+    font-size:15px;
+  }
+  .history{
+    width: 420px;
+    height:430px
+  }
+  .img-istory{
+    height: 520px;
+  }
+  .img-istory1{
+    width: 280px;
+    height: 360px;
+  }
+  .img2{
+    width: 200px;
+    height: 410px;
+  }
+  .img3{
+    width: 180px;
+    height: 220px;
+  }
+  .contener-bosx{
+    width: 90px;
+    height: 125px;
+    margin-top: -17em;
+    margin-left: 21em;
+  }
+  .contener2{
+    height: 520px;
+  }
+  .img-zagalovca{
+    font-size: 40px;
+  }
+  .img-bottom-coment{
+    font-size: 16px;
+  }
+  .img-text-bootom{
+    margin-top: 2em;
+  }
+  .img-booking-bottom{
+    height: 220px;
+  }
+  .img-button-booking{
+    margin-top: 7em;
+    width: 135px;
+    height: 40px;
+    font-weight: 600;
+    font-size: 12px;
+  }
+  .text2-zagalovca,.zagalovca2{
+    font-size: 40px;
+  }
+  .boxs-img-cont3{
+    width: 410px;
+    height: 400px;
+  }
+  .contener3-boxs{
+    justify-content:start;
+    margin-top: 5em;
+  }
+    .boxs1-img{
+    width: 130px;
+    height: 115px;
+    margin-left: 50px;
+    }
+    .boxs-menu{
+    margin-top: 2em;
+    font-size: 18px;
+    }
+    svg {
+    margin-top: 45px;
+    width: 120px;
+    }
+    .boxs-price1 {
+    margin-top: 35px;
+    font-size: 20px;
+    }
+    .contener3{
+    margin-left: 8em;
+    height: 550px;
+    }
+    .cont4-incfo-menu{
+    font-size: 40px;
+    }
+    .cont4-boxs1, .cont4-boxs2, .cont4-boxs3{
+    width: 270px;
+    height:335px;
+    }
+    .recoment1 {
+      font-size: 9px;
+      width: 95px;
+      height: 26px;
+    }
+    .img-burger1, .img-burger2 {
+      width: 170px;
+      height: 150px;
+      margin-left: 3em;
+    }
+    circle {
+        cx: 52;
+        cy: 66;
+        r: 28.5;
+        stroke-width: 4px;
+    }
+    .text1 {
+        font-size: 20px;
+        font-weight: 400;
+        transform: translate(3px, 16px)
+    }
+    .cont4-menu {
+        font-size: 20px;
+        margin-left: -15px;
+    }
+    .cont4-burger-info {
+        font-size: 13px;
+        margin-left: -35px;
+    }
+    .cont4-button {
+        width: 155px;
+        height: 35px;
+        font-size: 12px;
+        margin-left: 60px;
+    }
+    .contener4-img-font {
+        height: 650px;
+    }
+    .Hapy-puplu {
+        height: 300px;
+        padding: 1em;
+    }
+    .coment-hapy {
+        margin-top: 0em;
+        font-size: 14px;
+        margin-bottom: 0px;
+    }
+    .img-hapy {
+        width: 60px;
+        height: 60px;
+        margin-top: 0em;
+        margin-bottom: 0em;
+        margin-left: 28em;
+    }
+    .Posititel {
+        font-size: 14px;
+        margin-bottom: 0px;
+        margin-left: 30px;
+    }
+    .name-hapy {
+        font-size: 14px;
+        margin-left: 30px;
+    }
+    .activ-radio {
+    fill: rgba(196, 196, 196, 0);
+    stroke-width: -1px;
+    stroke: #ff7400;
+    margin-left: -12em;
+    margin-top: 50px;
+    width: 120px;
+}
+.eag-info, .povor-info-zagalovca {
+        font-size: 40px;
+        text-align: center;
+        margin-top: 1em;
+    }
+  .eag2, .povor-info2 {
+        font-size: 40px;
+    }
+  .block1,.block2{
+    width: 20px;
+    height: 80px;
+    background: #f00;
+}
+.eag-flexs{
+  margin-top: 3em;
+}
+.top-img1 {
+width: 450px;
+height: 200px;
+margin-right: 5px;
+}
+.top-img2 {
+  width: 200px;
+  height: 200px;
+}
+.top-img3 {
+width: 190px;
+height: 200px;
+margin-left: 5px;
+}
+.top-img5 {
+  width: 200px;
+  height: 200px;
+  margin-right: 5px;
+  }
+  .top-img6 {
+  width: 200px;
+  height: 200px;
+  }
+  .top-img7 {
+    width: 435px;
+    height: 200px;
+    margin-left: 5px;
+    }
+  .contener-img-eag {
+  width: 100%;
+  height: 550px;
+}
+.povor-img1 {
+  width: 290px;
+  height: 380px;
+  margin-left: -20em;
+}
+.povor-img2 {
+  width: 280px;
+  height: 380px;
+  margin-right: 1em;
+  margin-left: 1em;
+}
+.povor-img3 {
+  width: 280px;
+  height: 380px;
+}
+.povor-info {
+  height: 540px;
+}
+.bottom-logo1, .bottom-logo2 {
+width: 70px;
+height: 70px;
+}
+.text-bottom {
+font-size: 13px;
+font-weight: 300;
+width: 300px;
+}
+  .img-info-bottom {
+    gap: 10px;
+    margin-top: 1em;
+    margin-left: 0em;
+    margin-bottom: 50px;
+}
+.social-icon{
+  width: 40px;
+  height: 40px;
+}
+.working-hours-zagalovca, .working-hours2, .contact-info, .contact-span {
+  font-size: 20px;
+  font-weight: 400;
+}
+.working-hours-text, .info-contecat {
+  font-weight: 300;
+  font-size: 12px;
+}
+.subscribe-box{
+  display: flex;
+  align-items: center;
+  background-color: white;
+  border-radius: 10px;
+  padding: 0.2rem;
+  width: 200px;
+  gap: 0.2rem;
+  margin-top: 1em;
+}
+.subscribe-box input {
+padding: 0.30rem 0rem;
+font-size: 13px;
+min-width: 100px;
+}
+.img-bottom{
+  width: 100%;
+  height: 540px;
+}
+.info-bottom {
+    margin-left: 0em;
+}
+}
+@media (max-width:991px) {
+  body {
+    background-color: red;
+  }
+  .boxs-logo1, .boxs-logo2 {
+  width: 60px;
+  height: 60px;
+  }
+  .a {
+  font-size: 13px;
+  }
+  .delenie {
+  height: 55px;
+  }
+  .tell {
+  font-size: 14px;
+  font-weight: 300;
+  }
+  .text-booking {
+        font-size: 11px;
+        width: 175px;
+        font-weight: 300;
+  }
+  #zacas-booking {
+  width: 105px;
+  height: 35px;
+  font-size: 10px;
+  font-weight: 400;
+  margin-left: 2em;
+  margin-top: -1em;
+  }
+  .coment1 {
+    font-size: 30px;
+    font-weight: 200;
+  }
+  .zagalovca1 {
+  font-size: 50px;
+  font-weight: 400;
+  }
+  .text {
+  font-size: 14px;
+  font-weight: 200;
+  }
+  .line {
+  width: 55px;
+  height: 1px;
+  }
+  .line-wrap{
+    gap:0px;
+  }
+  .button-view {
+    font-size: 10px;
+    font-weight: 500;
+    width: 90px;
+    height: 30px;
+  }
+  .img-fon{
+    height: 590px;
+  }
+  .boxs-info {
+        margin-left: 0em;
+        margin-top: 13em;
+    }
+  .Home-page {
+  margin-left:-14em;
+  height: 300px;
+  justify-content:center;
+  margin-top:35em;
+  }
+  .page1, .page2, .page3 {
+  width: 230px;
+  height: 160px;
+  }
+  .page2{
+    margin-left: 4em;
+    margin-right: 4em;
+  }
+  .boxs-glava{
+    height: 810px;
+  }
+  .img-page1 {
+  width: 50px;
+  height: 50px;
+  }
+  .page-coment1, span, .page-coment2, .page-coment3 {
+  font-size: 18px;
+  font-weight: 200;
+  }
+  .page-text1, .page-text3, .page-text2 {
+    font-size: 12px;
+    font-weight: 200;
+    text-align: center;
+    margin-left: 0em;
+    margin-top: 10px;
+    width: 230px;
+  }
+  .contener2 {
+    height: 455px;
+    margin-left: 0em;
+  }
+  .const-text72, .const-span {
+    font-size: 27px;
+  }
+.const-coment1 {
+  font-size: 14px;
+  }
+  .num1, .num2, .num3 {
+  font-size: 20px;
+  }
+  .const-text,.const-text3{
+    font-size: 12px;
+  }
+    .img-istory {
+      height: 425px;
+      width: 33em;
+    }
+        .img-istory1 {
+        width: 230px;
+        height: 300px;
+    }
+  .img2 {
+  width: 160px;
+  height: 330px;
+  margin-top: -2em;
+  margin-left: -6em;
+  }
+  .img3 {
+    width: 140px;
+    height: 170px;
+    margin-left: 2em;
+    margin-top: 9em;
+  }
+  .contener-bosx {
+  width: 50px;
+  height: 70px;
+  margin-top: -12em;
+  margin-left: 18em;
+  }
+  .img-zagalovca {
+  font-size: 38px;
+  }
+  .img-bottom-coment {
+  font-size: 15px;
+  }
+  .img-button-booking {
+  margin-top: 8em;
+  width: 120px;
+  height: 35px;
+  font-weight: 500;
+  font-size: 11px;
+  }
+  .contener3 {
+  margin-left:15px;
+  height: 430px;
+  margin-top: 2em;
+  }
+  .boxs-img-cont3 {
+  width: 380px;
+  height: 345px;
+  }
+  .boxs1-img {
+  width: 110px;
+  height: 95px;
+  margin-left: 60px;
+  }
+  .boxs-menu {
+  margin-top: 2em;
+  font-size: 17px;
+  }
+  svg {
+  margin-top: 45px;
+  width: 110px;
+  }
+  .boxs-price1 {
+  margin-top: 35px;
+  font-size: 18px;
+  }
+  .contener3-boxs {
+  justify-content: start;
+  margin-top: 1em;
+  }
+  .contener4-img-font {
+    height: 550px;
+    margin-top:5em;
+  }
+  .cont4-incfo-menu {
+  font-size: 38px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin-left: 0em;
+  }
+  .cont4-boxs1, .cont4-boxs2, .cont4-boxs3{
+    margin-top:0em;
+  }
+  .Hapy-puplu {
+  height: 250px;
+  padding: 1em;
+  }
+  .hapy-radio {
+  margin-top: -4em;
+  margin-right: -15px;
+  }
+  .eag-info, .povor-info-zagalovca {
+  font-size: 36px;
+  text-align: center;
+  margin-top: 1em;
+  }
+  .eag2, .povor-info2 {
+  font-size: 37px;
+  }
+  .povor-img1{
+    margin-left:-84%;
+  }
+  .img-bottom {
+  width: 100%;
+  height: 470px;
+  margin-top: 3em;
+  padding-top: 0em;
+  }
+}
+@media (max-width:544px) {
+  body {
+    background-color: blue;
+  }
+  .boxs-logo1, .boxs-logo2 {
+    width: 25px;
+    height: 25px;
+    margin-left: -7px;
+    border: 2px solid rgba(255, 116, 0, 1);
+  }
+  .a {
+  font-size: 10px;
+  }
+  .cart, .phone {
+  width: 12px;
+  height: 12px;
+  }
+  .delenie {
+    height: 40px;
+    margin-top:-28px;
+  }
+  .phone{
+  top: 2vh;
+  }
+  .text-booking {
+  font-size: 6px;
+  width: 90px;
+  font-weight: 100;
+  margin-left: 0px;
+  margin-right: 0px;
+  }
+  #zacas-booking {
+  width: 70px;
+  height: 20px;
+  font-size: 8px;
+  font-weight: 300;
+  margin-left: 10em;
+  margin-right: -4em;
+  margin-top: -2em;
+  }
+  .burger-menu{
+    margin-top:-25px;
+  }
+  .boxs2{
+  top: -30px;
+  }
+  .tell {
+  font-size: 10px;
+  font-weight: 200;
+  margin-left: -2px;
+  margin-right: 0px;
+  }
+  .contener2 {
+  height:300px;
+  margin-left: 0em;
+}
+.img-istory1 {
+  width: 160px;
+  height: 160px;
+}
+.img2 {
+  width: 100px;
+  height: 190px;
+  margin-top: -2em;
+  margin-left: -6em;
+  }
+  .img3 {
+  width: 90px;
+  height: 110px;
+  margin-left: -1em;
+  margin-top: 4em;
+}
+.contener-bosx {
+  width: 35px;
+  height: 63px;
+  margin-top: -8em;
+  margin-left: 9em;
+  }
+  .const-text72, .const-span {
+  font-size: 24px;
+  margin-right:5em;
+  }
+  .const-num {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 1em;
+    margin-right:20em;
+}
+  .const-coment1 {
+  font-size: 12px;
+  font-weight: 300;
+  width: 300px;
+  margin-left: -8em;
+  }
+  .num1, .num2, .num3 {
+  font-size: 18px;
+}
+.const-text, .const-text3 {
+  font-size: 10px;
+  }
+  .history {
+  width: 420px;
+  height: 270px;
+  }
+  .img-istory {
+    height: 270px;
+    width: 37em;
+    margin-left: -20em;
+  }
+  .coment1 {
+    font-size: 24px;
+    font-weight: 100;
+  }
+  .zagalovca1 {
+  font-size: 40px;
+  font-weight: 300;
+  }
+  .text {
+  font-size: 12px;
+  font-weight: 100;
+  }
+  .line {
+  width: 30px;
+  height: 1px;
+  }
+  .button-view {
+  font-size: 8px;
+  font-weight: 400;
+  width: 75px;
+  height: 25px;
+  }
+  .boxs-info {
+  margin-left: -8em;
+  margin-top: 9em;
+  }
+  .img-fon {
+  height: 460px;
+  }
+  .Home-page {
+  margin-left: -650px;
+  height: 277px;
+  justify-content: center;
+  margin-top:26em;
+  }
+  .page1, .page2, .page3 {
+  width: 180px;
+  height: 120px;
+  }
+  .img-page1 {
+  width: 40px;
+  height: 40px;
+  }
+  .page-coment1, span, .page-coment2, .page-coment3 {
+  font-size: 14px;
+  font-weight: 100;
+}
+  .page-text1, .page-text3, .page-text2 {
+  font-size: 8px;
+  font-weight: 100;
+  text-align: center;
+  margin-left: 0em;
+  margin-top: 4px;
+  width: 180px;
+  }
+  .page2 {
+        margin-left: 5px;
+        margin-right: 5px;
+  }
+  .boxs-glava {
+  height: 550px;
+  }
+  .img-zagalovca {
+  font-size: 18px;
+  }
+    .img-bottom-coment {
+    font-size: 10px;
+  }
+  .img-text-bootom {
+  margin-top: 1em;
+  margin-left: 1em;
+  }
+  .img-booking-bottom {
+  height: 110px;
+  }
+  .img-button-booking {
+  margin-top:6em;
+  width: 75px;
+  height: 20px;
+  font-weight: 400;
+  font-size: 8px;
+  }
+    .text2-zagalovca, .zagalovca2 {
+        font-size: 30px;
+    }
+  .boxs-img-cont3 {
+  width: 240px;
+  height: 240px;
+  }
+  .boxs1-img {
+  width: 60px;
+  height: 60px;
+  margin-left: 15px;
+  }
+  .boxs-menu {
+    margin-top: 25px;
+    font-size: 11px;
+  }
+  svg {
+  margin-top: 30px;
+  width: 40px;
+  }
+  .boxs-price1 {
+  margin-top: 24px;
+  font-size: 13px;
+  }
+  .contener3 {
+  margin-left: 15px;
+  height: 310px;
+  margin-top: 2em;
+  }
+  .cont4-incfo-menu {
+        font-size: 27px;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        margin-left: 0;
+  }
+  .cont4-boxs1, .cont4-boxs2, .cont4-boxs3 {
+        width: 160px;
+        height: 230px;
+  }
+  .img-burger1, .img-burger2 {
+  width: 90px;
+  height: 90px;
+  margin-left:35px;
+  z-index:2;
+  }
+  .recoment1 {
+  font-size: 7px;
+  width: 72px;
+  height: 20px;
+  }
+  .cont4-menu {
+  font-size: 14px;
+  margin-left:-40px;
+  }
+  .cont4-burger-info {
+  font-size: 8px;
+  margin-left: -82px
+  }
+  .cont4-button {
+        width: 100px;
+        height: 25px;
+        font-size: 9px;
+        margin-left: 35px;
+  }
+  .cont4-boxs-menu {
+    display: flex;
+    justify-content: space-around;
+}
+  circle {
+    display: none;
+  }
+  .text1{
+    display: none;
+  }
+  .contener4-img-font {
+  height: 400px;
+  margin-top: 5em;
+  }
+  .coment-hapy {
+  margin-top: 0em;
+  font-size: 10px;
+  margin-bottom: 0px;
+  width: 400px;
+  }
+  .img-hapy {
+  width: 40px;
+  height: 40px;
+  margin-top: 0em;
+  margin-bottom: 0em;
+  margin-left: 14em;
+  }
+  .Posititel {
+  font-size: 10px;
+  margin-bottom: 0px;
+  margin-left: 40px;
+  }
+  .name-hapy {
+  font-size: 10px;
+  margin-left: 38px;
+  margin-top: 0;
+  }
+  .activ-radio {
+  fill: rgba(196, 196, 196, 0);
+  stroke-width: -1px;
+  stroke: #ff7400;
+  margin-left: -3em;
+  margin-top:60px;
+  width: 120px;
+}
+.Hapy-puplu {
+        height: 150px;
+        padding: 5px;
+}
+.eag-info, .povor-info-zagalovca {
+  font-size: 23px;
+  text-align: center;
+  margin-top: 1em;
+  }
+  .eag2, .povor-info2 {
+  font-size: 24px;
+}
+  .block1, .block2 {
+  width: 10px;
+  height: 40px;
+  background: #f00;
+  }
+  .top-img1 {
+        width: 220px;
+        height: 140px;
+        margin-right:2px;
+        margin-left:5px;
+  }
+.top-img2 {
+  width: 120px;
+  height: 140px;
+  }
+  .top-img3 {
+  width: 160px;
+  height: 140px;
+  margin-left: 5px;
+  }
+  .top-img5 {
+  width: 120px;
+  height: 140px;
+  margin-right: 5px;
+  }
+  .top-img6 {
+    width: 160px;
+    height: 140px;
+  }
+  .top-img7 {
+  width: 220px;
+  height: 140px;
+  margin-left: 5px;
+  }
+  .contener-img-eag {
+  width: 100%;
+  height: 370px;
+}
+  .povor-img1 {
+  width: 140px;
+  height: 200px;
+  margin-left: -93vh;
+  }
+  .povor-img2 {
+  width: 140px;
+  height: 200px;
+  margin-right: 1em;
+  margin-left: 1em;
+  }
+  .povor-img3 {
+  width: 140px;
+  height: 200px;
+  }
+  .povor-info {
+  height: 320px;
+  }
+  .bottom-logo1, .bottom-logo2 {
+  width: 30px;
+  height: 30px;
+  border: 2px solid rgba(255, 116, 0, 1);
+  margin-right: 12px;
+  }
+  .text-bottom {
+    font-size: 9px;
+    font-weight: 200;
+    width: 200px;
+  }
+  .img-info-bottom {
+    gap: 5px;
+    margin-top: 10px;
+    margin-left: 0em;
+    margin-bottom: 30px;
+  }
+  .social-icon {
+  width: 30px;
+  height: 30px;
+  }
+  .working-hours-zagalovca, .working-hours2, .contact-info, .contact-span {
+  font-size: 15px;
+  font-weight: 300;
+  }
+  .working-hours-text, .info-contecat {
+    font-weight: 200;
+    font-size: 8px;
+  }
+      .info-bottom {
+        margin-left: 0em;
+        width: 210px;
+    }
+        .subscribe-box {
+        display: flex;
+        align-items: center;
+        background-color: white;
+        border-radius: 10px;
+        padding: 0.2rem;
+        width: 150px;
+        gap: 0.2rem;
+        margin-top: 5px;
+    }
+        .subscribe-box button {
+        padding: 0.75rem -0.5rem;
+        font-size: 9px;
+        margin-left: -5em;
+    }
+    .img-bottom {
+        width: 100%;
+        height: 395px;
+        margin-top: 3em;
+        padding-top: 0em;
+    }
+    .working-hours {
+    display: grid;
+    margin-top: 12em;
+    align-content: center;
+}
+
+}
+
+
+
+

@@ -1,0 +1,139 @@
+:root {
+    --font-family: "Open Sans", sans-serif;
+    --second-family: "Tinos", sans-serif;
+    --third-family: "Cookie", sans-serif;
+  }
+.text-booking{
+    color:#fff;
+    font-weight: 500;
+    text-decoration: none;
+    font-size: 16px;
+    margin-left:5px;
+    margin-right:5px;
+    width: 270px;
+    height: auto;
+}
+.tell{
+    font-weight: 500;
+    text-decoration: none;
+    margin-left:5px;
+    margin-right:5px;
+    font-size: 20px;
+    position: relative;
+    left: 17px;
+    color: #fff;
+}
+span{
+    color: rgba(188, 144, 96, 1);
+}
+.page-coment1 ,span{
+    font-size: 26px;
+    font-weight: 400;
+}
+.page-text1,.page-text3{
+    color: rgba(101, 99, 99, 1);
+    font-size: 22px;
+    font-weight: 400;
+    width: 280px;
+    text-align: center;
+    margin-top: 1em;
+    margin-left: 2em;
+}
+.page-text2{
+    color: rgba(101, 99, 99, 1);
+    font-size: 22px;
+    font-weight: 400;
+    width: 200px;
+    text-align: center;
+    margin-top: 1em;
+    margin-left: 3em;
+}
+.page-coment2,.page-coment3{
+    font-weight: 400;
+}
+.const-text72{
+    font-weight: 400;
+    font-size: 54px;
+    color: #000;
+}
+.const-span{
+    color:#D67E34;
+    font-weight: 400;
+    font-size: 54px;
+}
+.const-coment1{
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    color: #656363;
+}
+.text1{
+    font-family: var(--third-family);
+    font-weight: 500;
+    font-size: 30px;
+    color: #fff;
+}
+.cont4-menu{
+    font-family: var(--second-family);
+    font-weight: 400;
+    font-size: 26px;
+    color: #000;
+}
+.cont4-burger-info{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 17px;
+    text-align: center;
+    color: #000;
+    width: 200px;
+}
+.coment-hapy{
+    font-family: var(--font-family);
+    font-style: italic;
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    color: #000;
+    width: 860px;
+    height: auto;
+    margin-left: 5em;
+    margin-bottom: 0;
+    margin-top: 2em;
+}
+.text {
+    white-space: nowrap;
+    font-size: 20px;
+    font-weight: 400;
+    color: #ffffff;
+}
+.coment-line{
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+}
+.coment1{
+    color: rgba(255, 116, 0, 1);
+    font-size: 45px;
+    font-weight: 400;
+}
+.zagalovca1{
+    color:rgba(255, 116, 0, 1);
+    font-size: 80px;
+    font-weight: 600;
+}
+.working-hours2{
+    font-family: var(--font6);
+    font-weight: 600;
+    font-size: 30px;
+}
+.contact-span{
+    font-family: var(--font6);
+    font-weight: 600;
+    font-size:30px;
+}
+.contact-info{
+    font-family: var(--font6);
+    font-weight: 600;
+    font-size: 30px;
+    color: #fff;
+}

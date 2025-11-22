@@ -1,0 +1,74 @@
+.contener3{
+    width: 1200px;
+    height: 760px;
+    margin-left:10em;
+    margin-right: 0em;
+    margin-top: 5em;
+    max-width: 100%; /* Ограничиваем ширину контейнера */
+    overflow-x: hidden; /* Убираем горизонтальный скролл */
+}
+
+.contener3-boxs{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 7em;
+}
+.boxs-img-cont3{
+    background-size: cover;
+    background-position: center;
+    width:490px;
+    height:480px
+}
+svg{
+    stroke-width: 1px;
+    stroke: #000;
+}
+.boxs1-info{
+    display: flex;
+    margin-bottom: 0;
+}
+svg{
+    margin-top: 65px;
+}
+.text2-zagalovca{
+    text-align: center;
+    text-align: center;
+    font-family: var(--second-family);
+    font-weight: 400;
+    font-size: 54px;
+    color: #d67e34;
+}
+.boxs-price1{
+    margin-top: 50px;
+    margin-left: 5px;
+    font-family: var(--second-family);
+    font-weight: 400;
+    font-size: 26px;
+    color: #000;
+}
+.boxs-menu{
+    margin-top: 2em;
+    margin-left: 1em;
+    font-family: var(--second-family);
+    font-weight: 400;
+    font-size: 25px;
+    color: #000;
+}
+.boxs-img-info1{
+    display: grid;
+}
+.boxs1-img{
+    width: 180px;
+    height: 140px;
+    margin-top: 5px;
+    margin-bottom: 22px;
+}
+.zagalovca2{
+    text-align: center;
+    text-align: center;
+    font-family: var(--second-family);
+    font-weight: 400;
+    font-size: 54px;
+    color: #000;
+}
+
