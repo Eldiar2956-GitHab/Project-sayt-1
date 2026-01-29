@@ -1,8 +1,5 @@
 /* базовые стили здесь */
 @media (max-width:1488px) {
-  body {
-    background-color: yellow;
-  }
       .Home-page{
     margin-left:7%;
   }
@@ -268,9 +265,6 @@ circle{
 }
 }
 @media(max-width:1201px) {
-  body {
-    background-color: green;
-  }
   .boxs-logo1,.boxs-logo2{
     width:70px;
     height:70px;
@@ -643,9 +637,6 @@ min-width: 100px;
 }
 }
 @media (max-width:991px) {
-  body {
-    background-color: red;
-  }
   .boxs-logo1, .boxs-logo2 {
   width: 60px;
   height: 60px;
@@ -864,9 +855,6 @@ min-width: 100px;
   }
 }
 @media (max-width:544px) {
-  body {
-    background-color: blue;
-  }
   .boxs-logo1, .boxs-logo2 {
     width: 25px;
     height: 25px;
